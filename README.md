@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2artem&layout=compact)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2artem&layout=compact)]()
 ![Github stats](https://github-readme-stats.vercel.app/api?username=2artem&show_icons=true&include_all_commits=true&count_private=true)
 
 ### 💻 My technology stack
