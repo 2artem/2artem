@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  - Docker, docker-compose
  - PostgreSQL, SQLite
  - Nginx, Gunicorn
- - CI
+ - CI / CD
  - Linux
 
 ### 🌱 I’m currently learning
